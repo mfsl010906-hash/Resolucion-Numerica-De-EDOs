@@ -13,15 +13,14 @@
 - **IDE Sugerido:** NetBeans, Eclipse, IntelliJ IDEA o VS Code.
 
 ## Descripción del Proyecto
-
-1. Clase Regresion Lineal: Esta clase agrupa los métodos necesarios para calcular una línea de tendencia estadística usando el método de mínimos cuadrados, así como coeficientes de correlación y capacidad de predicción.
-2. Main: verifica que las fórmulas implementadas en la otra clase devuelvan los valores correctos utilizando datos conocidos de entrada.
-
+Se implementa de forma modular en Java los algoritmos numéricos del Método de Euler y el Método de Runge-Kutta de 4º orden(RK4) para la resolución de Ecuaciones Diferenciales Ordinarias(EDOs), aplicando criterios de paro formales(N), experimentación variando el tamaño de paso (h) y comparación rigurosa contra soluciones analíticas exactas.
+1. Clase MetodoEuler: Esta clase aproxima numéricamente la solución de una Ecuación Diferencial Ordinaria (EDO) de primer orden con condición inicial (Problema de Valor Inicial) en un intervalo determinado, de forma modular y controlada.
+2. Clase MetodoRungeKutta: El objetivo de esta clase es aproximar con alta precisión (orden de convergencia O(h^4)) la solución de una Ecuación Diferencial Ordinaria (EDO) de primer orden con condición inicial en un intervalo definido.
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/mfsl010906-hash/IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS.git]
+   git clone []
    cd IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS
    ```
 
