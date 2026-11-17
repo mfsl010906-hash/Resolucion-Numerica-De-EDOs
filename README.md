@@ -37,10 +37,25 @@ Se implementa de forma modular en Java los algoritmos numéricos del Método de 
 ---
 
 ## Salida de Consola Metodo Euler
+- con h=0.1
+- n	 x_n	 y_n (Euler)
+- --------------------------------
+- 0	 0.0000	 1.0000
+- 1	 0.1000	 0.4000
+- 2	 0.2000	 0.1800
+- 3	 0.3000	 0.1120
+- Process finished with exit code 0
 
-
+## Salida de Consola Metodo Runge-Kutta
+- con h=0.1
+- n	 x_n	 y_n (RK4)
+- --------------------------------
+- 0	 0.0000	 1.0000
+- 1	 0.1000	 0.5577
+- 2	 0.2000	 0.3297
+- 3	 0.3000	 0.2195
+- Process finished with exit code 0
 
 ## conclucion
-El algoritmo cumple perfectamente su propósito matemático: las fórmulas de mínimos cuadrados funcionan de manera correcta, permitiendo trazar una línea de tendencia confiable y realizar estimaciones futuras.
 
 
