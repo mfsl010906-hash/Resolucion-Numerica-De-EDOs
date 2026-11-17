@@ -20,18 +20,18 @@ Se implementa de forma modular en Java los algoritmos numéricos del Método de 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone []
-   cd IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS
+   git clone [https://github.com/mfsl010906-hash/Resolucion-Nuemrica-De-EDOs.git]
+   cd Resolucion-Nuemrica-De-EDOs
    ```
 
 2. Compilar el código:
    ```bash
-   javac -d bin src/AjusteDeFunciones/*.java
+   javac -d bin src/MetodoRungeKutta/*.java
    ```
 
 3. Ejecutar la clase principal:
    ```bash
-   java -cp bin Main.Main
+   java -cp bin MetodoEuler.Main
    ```
 
 ---
