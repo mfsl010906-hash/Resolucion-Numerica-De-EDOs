@@ -57,5 +57,5 @@ Se implementa de forma modular en Java los algoritmos numéricos del Método de 
 - Process finished with exit code 0
 
 ## conclucion
-
+El Método de Euler resulta útil desde el punto de vista didáctico por su simplicidad conceptual y bajo costo por paso, en aplicaciones reales de ingeniería donde se exige alta exactitud y eficiencia computacional, Runge-Kutta de cuarto orden es la alternativa estándar y más confiable, ya que ofrece resultados altamente precisos incluso con mallas gruesas y pocas iteraciones.
 
