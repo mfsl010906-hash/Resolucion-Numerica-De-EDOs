@@ -21,7 +21,7 @@ Se implementa de forma modular en Java los algoritmos numéricos del Método de 
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/mfsl010906-hash/Resolucion-Nuemrica-De-EDOs.git]
-   cd Resolucion-Nuemrica-De-EDOs
+   cd Resolucion-Numerica-De-EDOs
    ```
 
 2. Compilar el código:
